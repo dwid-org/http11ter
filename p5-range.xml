@@ -200,7 +200,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.06"/>.
+    The changes in this draft are summarized in <xref target="changes.since.07"/>.
   </t>
 </note>
 </front>
@@ -1595,6 +1595,12 @@
       "base for numeric protocol elements"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p5-range-07" anchor="changes.since.07">
+<t>
+  None.
 </t>
 </section>
 

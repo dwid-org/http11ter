@@ -197,7 +197,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.06"/>.
+    The changes in this draft are summarized in <xref target="changes.since.07"/>.
   </t>
 </note>
 </front>
@@ -934,6 +934,12 @@
 </section>
 
 <section title="Since draft-ietf-httpbis-p7-auth-06" anchor="changes.since.06">
+<t>
+  None.
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p7-auth-07" anchor="changes.since.07">
 <t>
   None.
 </t>
