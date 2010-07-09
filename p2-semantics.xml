@@ -256,7 +256,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.09"/>.
+    The changes in this draft are summarized in <xref target="changes.since.10"/>.
   </t>
 </note>
 </front>
@@ -3796,6 +3796,12 @@ WWW-Authenticate =
       "Term for the requested resource's URI"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p2-semantics-10" anchor="changes.since.10">
+<t>
+  None yet.
 </t>
 </section>
 
