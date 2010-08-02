@@ -220,7 +220,7 @@
    </t>
    <t>
       The changes in this draft are summarized in <xref
-      target="changes.since.10"/>.
+      target="changes.since.11"/>.
    </t>
 </note>
 
@@ -2620,6 +2620,12 @@
       Clean up TODOs and prose in "Combining Responses."
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p6-cache-11" anchor="changes.since.11">
+<t>
+  None yet.
 </t>
 </section>
 

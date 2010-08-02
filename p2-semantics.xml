@@ -262,7 +262,7 @@ xmlns:x='http://purl.org/net/xml2rfc/ext'/>">
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.10"/>.
+    The changes in this draft are summarized in <xref target="changes.since.11"/>.
   </t>
 </note>
 </front>
@@ -3792,6 +3792,12 @@ WWW-Authenticate =
       "consider removing the 'changes from 2068' sections"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p2-semantics-11" anchor="changes.since.11">
+<t>
+  None yet.
 </t>
 </section>
 
