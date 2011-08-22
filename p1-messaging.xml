@@ -232,7 +232,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.15"/>.
+    The changes in this draft are summarized in <xref target="changes.since.16"/>.
   </t>
 </note>
 </front>
@@ -5970,6 +5970,12 @@ Acknowledgements TODO list
       "'Close' should be reserved in the HTTP header field registry"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p1-messaging-16" anchor="changes.since.16">
+<t>
+  None yet.
 </t>
 </section>
 
