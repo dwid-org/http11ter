@@ -215,7 +215,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.16"/>.
+    The changes in this draft are summarized in <xref target="changes.since.17"/>.
   </t>
 </note>
 </front>
@@ -1849,6 +1849,12 @@ Content-Encoding: gzip
       "Document HTTP's error-handling philosophy"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p4-conditional-17" anchor="changes.since.17">
+<t>
+  No changes yet.
 </t>
 </section>
 

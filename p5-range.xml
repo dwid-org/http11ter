@@ -209,7 +209,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.16"/>.
+    The changes in this draft are summarized in <xref target="changes.since.17"/>.
   </t>
 </note>
 </front>
@@ -1809,6 +1809,12 @@
       "case sensitivity of ranges in p5"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p5-range-17" anchor="changes.since.17">
+<t>
+  No changes yet.
 </t>
 </section>
 

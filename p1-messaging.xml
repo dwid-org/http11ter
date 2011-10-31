@@ -236,7 +236,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.16"/>.
+    The changes in this draft are summarized in <xref target="changes.since.17"/>.
   </t>
 </note>
 </front>
@@ -5849,6 +5849,12 @@ Zed A. Shaw.
       "Closing the connection on server error"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p1-messaging-17" anchor="changes.since.17">
+<t>
+  No changes yet.
 </t>
 </section>
 
