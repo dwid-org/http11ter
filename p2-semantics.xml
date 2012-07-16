@@ -206,7 +206,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.19"/>.
+    The changes in this draft are summarized in <xref target="changes.since.20"/>.
   </t>
 </note>
 </front>
@@ -6865,6 +6865,13 @@ Sun Nov  6 08:49:37 1994       ; ANSI C's asctime() format
   </list>
 </t>
 </section>
+
+<section title="Since draft-ietf-httpbis-p2-semantics-20" anchor="changes.since.20">
+<t>
+  None yet.
+</t>
+</section>
+
 </section>
 
 </back>

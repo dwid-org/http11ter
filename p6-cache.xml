@@ -145,7 +145,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.19"/>.
+    The changes in this draft are summarized in <xref target="changes.since.20"/>.
   </t>
 </note>
 
@@ -2681,6 +2681,12 @@ Pragma: no-cache
       "note introduction of new IANA registries as normative changes"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p6-cache-20" anchor="changes.since.20">
+<t>
+  None yet.
 </t>
 </section>
 
