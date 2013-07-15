@@ -128,7 +128,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.22"/>.
+    The changes in this draft are summarized in <xref target="changes.since.23"/>.
   </t>
 </note>
 
@@ -2670,6 +2670,12 @@ Pragma: no-cache
       "Vary and future requests"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p6-cache-23" anchor="changes.since.23">
+<t>
+   None yet.
 </t>
 </section>
 </section>

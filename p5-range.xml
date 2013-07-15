@@ -122,7 +122,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.22"/>.
+    The changes in this draft are summarized in <xref target="changes.since.23"/>.
   </t>
 </note>
 </front>
@@ -1579,6 +1579,12 @@ Content-Range: exampleunit 11.2-14.3/25
       "MUSTs and other feedback"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p5-range-23" anchor="changes.since.23">
+<t>
+  None yet.
 </t>
 </section>
 </section>
