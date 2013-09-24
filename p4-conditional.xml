@@ -116,7 +116,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.23"/>.
+    The changes in this draft are summarized in <xref target="changes.since.24"/>.
   </t>
 </note>
 </front>
@@ -1707,6 +1707,12 @@ Content-Encoding: gzip
       "p4 editorial nits"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p4-conditional-24" anchor="changes.since.24">
+<t>
+  None yet.
 </t>
 </section>
 </section>

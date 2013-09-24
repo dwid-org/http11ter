@@ -136,7 +136,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.23"/>.
+    The changes in this draft are summarized in <xref target="changes.since.24"/>.
   </t>
 </note>
 
@@ -2784,6 +2784,12 @@ Warning: 112 - "network down" "Sat, 25 Aug 2012 23:34:45 GMT"
       "add Warning header field examples"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p6-cache-24" anchor="changes.since.24">
+<t>
+  None yet.
 </t>
 </section>
 </section>
