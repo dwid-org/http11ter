@@ -106,7 +106,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.24"/>.
+    The changes in this draft are summarized in <xref target="changes.since.25"/>.
   </t>
 </note>
 </front>
@@ -1103,6 +1103,12 @@
       "note about WWW-A parsing potentially misleading"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p7-auth-25" anchor="changes.since.25">
+<t>
+  None yet.
 </t>
 </section>
 </section>
