@@ -192,7 +192,7 @@
     <eref target="http://tools.ietf.org/wg/httpbis/"/>.
   </t>
   <t>
-    The changes in this draft are summarized in <xref target="changes.since.25"/>.
+    The changes in this draft are summarized in <xref target="changes.since.26"/>.
   </t>
 </note>
 </front>
@@ -6342,6 +6342,12 @@ Sun Nov  6 08:49:37 1994         ; ANSI C's asctime() format
       "augment security considerations with pointers to current research"
     </t>
   </list>
+</t>
+</section>
+
+<section title="Since draft-ietf-httpbis-p2-semantics-26" anchor="changes.since.26">
+<t>
+  None yet.
 </t>
 </section>
 </section>
