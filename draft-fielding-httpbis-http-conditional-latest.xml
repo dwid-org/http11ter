@@ -1595,7 +1595,7 @@ Content-Encoding: gzip
 
 <section title="Acknowledgments" anchor="acks" numbered="false">
 <t>
-  See &acks;.
+  See Appendix "Acknowledgments" of <xref target='MESSGNG'/>.
 </t>
 </section>
 </back>

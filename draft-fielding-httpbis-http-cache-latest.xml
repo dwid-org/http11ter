@@ -2644,7 +2644,7 @@ Warning: 112 - "network down" "Sat, 25 Aug 2012 23:34:45 GMT"
 
 <section title="Acknowledgments" anchor="acks" numbered="false">
 <t>
-  See &acks;.
+  See Appendix "Acknowledgments" of <xref target='MESSGNG'/>.
 </t>
 </section>
 </back>

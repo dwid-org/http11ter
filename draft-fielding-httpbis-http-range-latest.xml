@@ -1511,7 +1511,7 @@ Content-Range: exampleunit 11.2-14.3/25
 
 <section title="Acknowledgments" anchor="acks" numbered="false">
 <t>
-  See &acks;.
+  See Appendix "Acknowledgments" of <xref target='MESSGNG'/>.
 </t>
 </section>
 </back>

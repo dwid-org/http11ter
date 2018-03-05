@@ -6150,7 +6150,7 @@ Sun Nov  6 08:49:37 1994         ; ANSI C's asctime() format
 
 <section title="Acknowledgments" anchor="acks" numbered="false">
 <t>
-  See &acks;.
+  See Appendix "Acknowledgments" of <xref target='MESSGNG'/>.
 </t>
 </section>
 </back>
